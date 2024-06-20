@@ -1,0 +1,62 @@
+[
+    {
+        "model": "digestapi.book",
+        "pk": 1,
+        "fields": {
+            "title": "The Neverending Story",
+            "author": "Edwin R. Billows",
+            "isbn_number": "8573282904",
+            "cover_image":"http://www.allbooks.com/neverendingstory/images/cover.png",
+            "categories": [1,2],
+            "user_id":1
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 2,
+        "fields": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn_number": "0061120081",
+            "cover_image":"",
+            "categories": [2,3],
+            "user_id":1
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 3,
+        "fields": {
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn_number": "0451524934",
+            "cover_image":"",
+            "categories": [3,4],
+            "user_id":1
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 4,
+        "fields": {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "isbn_number": "0060850523",
+            "cover_image":"",
+            "categories": [4,5],
+            "user_id":1
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 5,
+        "fields": {
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "isbn_number": "1451673310",
+            "cover_image":"",
+            "categories": [5,1],
+            "user_id":2
+        }
+    }
+]

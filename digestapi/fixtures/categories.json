@@ -1,0 +1,36 @@
+[
+    {
+        "model": "digestapi.category",
+        "pk": 1,
+        "fields": {
+            "category": "Fantasy"
+        }
+    },
+    {
+        "model": "digestapi.category",
+        "pk": 2,
+        "fields": {
+            "category": "Adventure fiction"
+        }
+    },
+    {
+        "model": "digestapi.category",
+        "pk": 3,
+        "fields": {
+            "category": "Romance novel"
+        }
+    },
+    {
+        "model": "digestapi.category",
+        "pk": 4,
+        "fields": {
+            "category": "Science fiction"
+        }
+    },    {
+        "model": "digestapi.category",
+        "pk": 5,
+        "fields": {
+            "category": "Mystery"
+        }
+    }
+]
